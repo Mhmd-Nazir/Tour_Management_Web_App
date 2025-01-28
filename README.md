@@ -24,10 +24,10 @@ REST APIs
 Maven (build tool)
 MySQL (Database)
 
-######## Frontend
+###### Frontend
 React
 HTML, CSS, JavaScript
 Axios (for API requests)
 
-##########Tools
+###### Tools
 POSTMAN (API testing)
