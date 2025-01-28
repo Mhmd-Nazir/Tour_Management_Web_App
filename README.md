@@ -16,7 +16,7 @@ Booking Management: Allows users to book tours and view their booking history.
 Real-Time Updates: Fetches data from backend APIs in real-time.
 Technologies Used
 
-###### Backend
+#### Backend
 Java
 Spring Boot Framework
 Microservice Architecture
@@ -24,10 +24,10 @@ REST APIs
 Maven (build tool)
 MySQL (Database)
 
-###### Frontend
+#### Frontend
 React
 HTML, CSS, JavaScript
 Axios (for API requests)
 
-###### Tools
+#### Tools
 POSTMAN (API testing)
